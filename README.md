@@ -31,14 +31,14 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-1. Install required packages:
+2. Install required packages:
 
 ```
 pip install openai python-dotenv
 
 ```
 
-1. Prepare your environment:
+3. Prepare your environment:
 
 Create a .env file in the same directory as the script and add your OpenAI API key:
 
